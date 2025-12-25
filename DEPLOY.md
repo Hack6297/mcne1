@@ -12,7 +12,7 @@ cd "c:\Users\Admin\Documents\Minecraft-3D-Game"
 git add .
 git commit -m "Add web service configuration"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/minecraft-nesa-explorer-5.git
+git remote add origin https://github.com/Hack6297/minecraft-nesa-explorer-5.git
 git push -u origin main
 ```
 
